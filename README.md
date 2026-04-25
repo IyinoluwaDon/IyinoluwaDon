@@ -2,7 +2,7 @@
 
 # Iyinoluwa Don-Taiwo
 
-### Machine Learning Engineer • Data Scientist • 
+### Machine Learning Engineer • Data Scientist
 
 
 <br>
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="iyinoluwadontaiwo@gmail.com">
+<a href="mailto:iyinoluwadontaiwo@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -33,6 +33,7 @@ I enjoy understanding systems deeply, not just using models, but learning how th
 
 - Machine Learning Engineering
 - Deep Learning
+- NLP 
 - AI-Powered Applications
 - Model Deployment
 - Cloud & AI Infrastructure
@@ -58,20 +59,6 @@ I enjoy understanding systems deeply, not just using models, but learning how th
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## Featured Direction
-
-This GitHub is focused on documenting my growth through:
-- Machine Learning Projects
-- Deep Learning Experiments
-- AI Applications
-- Python Engineering
-- Technical Explorations
-- Real-world Problem Solving
-
-Over time, the goal is to build systems that are not only intelligent, but actually useful.
 
 ---
 
