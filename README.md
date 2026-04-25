@@ -80,10 +80,6 @@ I enjoy understanding systems deeply, not just using models, but learning how th
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=IyinoluwaDon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=IyinoluwaDon&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 </div>
