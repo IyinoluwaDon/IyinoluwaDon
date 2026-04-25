@@ -66,16 +66,25 @@ I enjoy understanding systems deeply, not just using models, but learning how th
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IyinoluwaDon&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IyinoluwaDon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IyinoluwaDon&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=drizzy765&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drizzy765&theme=tokyonight&hide_border=true" alt="Contribution Streak">
+<br><br>
 
-</div>
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IyinoluwaDon&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IyinoluwaDon&theme=tokyo-night&hide_border=true" width="95%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=IyinoluwaDon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=IyinoluwaDon&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
