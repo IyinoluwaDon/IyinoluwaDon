@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Iyinoluwa Don-Taiwo
 I'm a Computer Science student at McPherson University with a strong interest in Artificial Intelligence, Machine Learning, and building technology that creates real impact.<br><br>I enjoy understanding systems deeply, not just using models, but learning how they work internally, why they work, and how to engineer them into useful applications.<br><br>Current Focus<br>Machine Learning Engineering<br>Deep Learning<br>NLP<br>AI-Powered Applications<br>Model Deployment<br>Cloud & AI Infrastructure
 
 
@@ -14,5 +14,3 @@ I'm a Computer Science student at McPherson University with a strong interest in
 
 ---
 [![](https://komarev.com/ghpvc/?username=IyinoluwaDon&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
