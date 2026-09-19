@@ -24,7 +24,7 @@ Building and shipping end-to-end ML products &nbsp;|&nbsp; fine-tuning models on
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,django,react,js,html,css,php,git,github,vscode,jupyter,figma" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,django,react,js,html,css,php,git,github,vscode,jupyter" />
 
 <br><br>
 
@@ -40,29 +40,15 @@ Building and shipping end-to-end ML products &nbsp;|&nbsp; fine-tuning models on
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&rank_icon=github&hide_title=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&rank_icon=github&hide_title=true&include_all_commits=true&theme=ambient_gradient)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&layout=donut-vertical&langs_count=7&hide_values=true&theme=solarized-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&layout=donut-vertical&langs_count=7&hide_values=true&theme=solarized-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&hide_progress=true&hide_title=true&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&hide_progress=true&hide_title=true&langs_count=6&theme=vue-dark)
 
 </div>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=IyinoluwaDon&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IyinoluwaDon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="95%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IyinoluwaDon&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
