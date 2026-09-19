@@ -16,7 +16,7 @@
 
 Building and shipping end-to-end ML products &nbsp;|&nbsp; fine-tuning models on real-world data
 
-*Ask me about: model fine-tuning · applied machine learning · ML product builds*
+*Ask me about: model fine-tuning · applied machine learning · ML product builds · data-driven decisions · metric frameworks · business intelligence*
 
 </div>
 
@@ -24,7 +24,7 @@ Building and shipping end-to-end ML products &nbsp;|&nbsp; fine-tuning models on
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,django,react,postgresql,git,vscode,colab,jupyter,github,figma" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,django,react,postgresql,git,vscode,jupyter,github,figma" />
 
 </div>
 
@@ -66,14 +66,6 @@ Building and shipping end-to-end ML products &nbsp;|&nbsp; fine-tuning models on
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IyinoluwaDon/IyinoluwaDon/output/github-contribution-grid-snake.svg" />
   <img alt="snake game" src="https://raw.githubusercontent.com/IyinoluwaDon/IyinoluwaDon/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
-
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
-
 
 </div>
 
