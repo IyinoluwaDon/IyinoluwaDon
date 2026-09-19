@@ -57,13 +57,6 @@ Building and shipping end-to-end ML products &nbsp;|&nbsp; fine-tuning models on
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IyinoluwaDon&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
 
 <br>
 
@@ -75,7 +68,14 @@ Building and shipping end-to-end ML products &nbsp;|&nbsp; fine-tuning models on
   <img alt="snake game" src="https://raw.githubusercontent.com/IyinoluwaDon/IyinoluwaDon/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
+
+
 </div>
+
+
+
+
 
 <br>
 
