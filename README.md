@@ -42,7 +42,7 @@ Building and shipping end-to-end ML products &nbsp;|&nbsp; fine-tuning models on
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&rank_icon=github&hide_title=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&rank_icon=github&hide_title=true&include_all_commits=true&theme=ambient_gradient)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&hide_progress=true&hide_title=true&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&hide_progress=true&hide_title=true&langs_count=6&theme=vue-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&layout=compact&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&layout=compact&langs_count=6&theme=vue-dark)
 
 </div>
 
