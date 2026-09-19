@@ -65,19 +65,19 @@ class Iyinoluwa:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DonIyin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonIyin&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=IyinoluwaDon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IyinoluwaDon&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DonIyin&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IyinoluwaDon&theme=tokyonight&hide_border=true" width="70%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DonIyin&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=IyinoluwaDon&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/DonIyin/DonIyin/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/IyinoluwaDon/IyinoluwaDon/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 <br>
