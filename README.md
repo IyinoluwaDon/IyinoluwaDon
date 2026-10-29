@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Iyinoluwa%20Don-Taiwo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/IyinoluwaDon">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+ML+models+that+see+the+world;Fine-tuning+LLMs+for+African+languages;Turning+data+into+decisions;&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+applied+AI+systems;Exploring+AI+research;Turning+data+into+decisions;&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22&pause=1200"/>
 </a>
 
 </div>
@@ -12,13 +12,26 @@
 
 <div align="center">
 
-**Machine Learning** &nbsp;·&nbsp; **Data Science** &nbsp;·&nbsp; **AI Research**
+**Machine Learning** &nbsp;·&nbsp; **Applied AI** &nbsp;·&nbsp; **AI Research**
 
-Building and shipping end-to-end ML products &nbsp;|&nbsp; fine-tuning models on real-world data
+Building and shipping end-to-end ML products while exploring AI research in computer vision, geospatial intelligence, multimodal learning, and language models.
 
-*Ask me about: model fine-tuning · applied machine learning · ML product builds · data-driven decisions · metric frameworks · business intelligence*
+*Ask me about: applied machine learning · computer vision · geospatial analytics · multimodal ML · model fine-tuning · ML APIs · dashboards · model deployment*
 
 </div>
+
+<br>
+
+## Featured work
+
+- **[Lagos geospatial analytics](https://github.com/IyinoluwaDon/Lagos-building-footprint-mapping)** — building-footprint inspection and area-level summaries, alongside wildfire-risk screening and Sentinel-2 water mapping projects.
+- **[ACL tear detection](https://github.com/IyinoluwaDon/acl-tear-detection)** — ResNet18 transfer-learning experiment for knee MRI classification using the Stanford MRNet dataset.
+- **[E-commerce listing consistency](https://github.com/IyinoluwaDon/ecommerce-listing-consistency-detector)** — multimodal text-image consistency modeling with TF-IDF, ResNet18, DistilBERT, and fusion features.
+- **[AI threat detection](https://github.com/IyinoluwaDon/ai-threat-detection)** — live web-attack screening combining regex rules with an ML ensemble.
+- **[YouTube AI automation](https://github.com/IyinoluwaDon/Youtube_AI_Automation)** — an end-to-end workflow for generating ideas, scripts, voiceovers, subtitles, videos, and uploads.
+- **[World Cup predictions](https://github.com/IyinoluwaDon/World_Cup_Predictions)** — match-outcome prediction and tournament simulation in a Streamlit application.
+
+My public projects span **computer vision, remote sensing, NLP, cybersecurity, automation, dashboards, and business analytics**, using public, historical, synthetic, and real-world datasets.
 
 <br>
 
