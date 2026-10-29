@@ -115,9 +115,37 @@ My public work spans **computer vision, remote sensing, NLP, cybersecurity, auto
 
 ## GitHub activity
 
+<div align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&hide_title=true&show_icons=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=IyinoluwaDon&hide_title=true&show_icons=true&theme=shadow_red)
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&layout=compact&langs_count=6&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=IyinoluwaDon&layout=compact&langs_count=6&theme=vue-dark)
+
+</div>
+
+<br>
+
 | [Repositories](https://github.com/IyinoluwaDon?tab=repositories) | [Followers](https://github.com/IyinoluwaDon?tab=followers) | [Starred projects](https://github.com/IyinoluwaDon?tab=stars) | [Contribution history](https://github.com/IyinoluwaDon) |
 |:---:|:---:|:---:|:---:|
 | Browse my public work | Connect with me | See what I learn from | View the native GitHub activity graph |
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IyinoluwaDon/IyinoluwaDon/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IyinoluwaDon/IyinoluwaDon/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/IyinoluwaDon/IyinoluwaDon/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
 
 ## Connect
 
