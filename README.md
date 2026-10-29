@@ -32,17 +32,37 @@ My public work spans **computer vision, remote sensing, NLP, cybersecurity, auto
 
 </div>
 
-## Selected credentials
+## Credentials
 
-Relevant training and certifications in cloud, AI, and data:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- [Microsoft AI-300 — Operationalizing Machine Learning and Generative AI Solutions](https://drive.google.com/file/d/1aeOaQtm6oHWd1CDkiIg7DCYEBBptujiM/view?usp=drive_link)
-- [Microsoft AI-900 — Azure AI Fundamentals](https://drive.google.com/file/d/1ZWJo88SXXWibVkKnQbmoOEbH8fnExOOZ/view?usp=drive_link)
-- [Microsoft DP-900 — Azure Data Fundamentals](https://drive.google.com/file/d/1VnXc_yrvWSplfQG-tW3Ykg2bmAt3JAnd/view?usp=drive_link)
-- [Anthropic — Claude 101: AI Fluency](https://drive.google.com/file/d/160xWCmhF09hgn-IVAYg9T8PGy6BvOkgU/view?usp=drive_link)
-- [Data Science Nigeria — AI Bootcamp 2025](https://drive.google.com/file/d/1SAvHnuRJTVBSM0em0r1FRUuQaM_9vgGL/view?usp=drive_link)
+### ☁️ Cloud & AI
 
-See the [full credentials page](https://iyinoluwa-don-taiwo.vercel.app/credentials) for additional AWS, Anthropic, and AI training records.
+**Microsoft**
+
+- [AI-300 · Operationalizing ML and Generative AI](https://drive.google.com/file/d/1aeOaQtm6oHWd1CDkiIg7DCYEBBptujiM/view?usp=drive_link)
+- [AI-900 · Azure AI Fundamentals](https://drive.google.com/file/d/1ZWJo88SXXWibVkKnQbmoOEbH8fnExOOZ/view?usp=drive_link)
+- [DP-900 · Azure Data Fundamentals](https://drive.google.com/file/d/1VnXc_yrvWSplfQG-tW3Ykg2bmAt3JAnd/view?usp=drive_link)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI learning
+
+**Anthropic · Data Science Nigeria**
+
+- [Claude 101 · AI Fluency](https://drive.google.com/file/d/160xWCmhF09hgn-IVAYg9T8PGy6BvOkgU/view?usp=drive_link)
+- [AI Bootcamp 2025](https://drive.google.com/file/d/1SAvHnuRJTVBSM0em0r1FRUuQaM_9vgGL/view?usp=drive_link)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Additional AWS, Anthropic, and AI training records are available on the <a href="https://iyinoluwa-don-taiwo.vercel.app/credentials">full credentials page</a>.</sub>
+</div>
 
 ## Featured work
 
