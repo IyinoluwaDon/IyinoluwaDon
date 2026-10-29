@@ -71,7 +71,7 @@ My public work spans **computer vision, remote sensing, NLP, cybersecurity, auto
 <td width="50%" valign="top">
 
 ### 🌍 Geospatial analytics
-[Building footprints](https://github.com/IyinoluwaDon/Lagos-building-footprint-mapping), wildfire-risk screening, and Sentinel-2 water mapping for Lagos.
+[Building footprints](https://github.com/IyinoluwaDon/Lagos-building-footprint-mapping), [wildfire-risk screening](https://github.com/IyinoluwaDon/Lagos-wildfire-risk-screening), and [Sentinel-2 water mapping](https://github.com/IyinoluwaDon/Water-body-detection--Sentinel-2) for Lagos.
 
 </td>
 <td width="50%" valign="top">
