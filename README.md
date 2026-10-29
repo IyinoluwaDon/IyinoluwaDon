@@ -115,22 +115,9 @@ My public work spans **computer vision, remote sensing, NLP, cybersecurity, auto
 
 ## GitHub activity
 
-<div align="center">
-
-<a href="https://github.com/IyinoluwaDon">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IyinoluwaDon&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&text_color=9aa7b2&icon_color=58a6ff" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/IyinoluwaDon">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IyinoluwaDon&layout=compact&hide_border=true&langs_count=6&theme=transparent&text_color=9aa7b2&title_color=58a6ff" alt="Most used languages"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/IyinoluwaDon">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IyinoluwaDon&bg_color=00000000&color=9aa7b2&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity" width="95%" alt="Contribution activity graph"/>
-</a>
-
-</div>
+| [Repositories](https://github.com/IyinoluwaDon?tab=repositories) | [Followers](https://github.com/IyinoluwaDon?tab=followers) | [Starred projects](https://github.com/IyinoluwaDon?tab=stars) | [Contribution history](https://github.com/IyinoluwaDon) |
+|:---:|:---:|:---:|:---:|
+| Browse my public work | Connect with me | See what I learn from | View the native GitHub activity graph |
 
 ## Connect
 
