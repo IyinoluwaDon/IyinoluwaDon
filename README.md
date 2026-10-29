@@ -113,6 +113,25 @@ My public work spans **computer vision, remote sensing, NLP, cybersecurity, auto
 
 </div>
 
+## GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/IyinoluwaDon">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IyinoluwaDon&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&text_color=9aa7b2&icon_color=58a6ff" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/IyinoluwaDon">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IyinoluwaDon&layout=compact&hide_border=true&langs_count=6&theme=transparent&text_color=9aa7b2&title_color=58a6ff" alt="Most used languages"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/IyinoluwaDon">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IyinoluwaDon&bg_color=00000000&color=9aa7b2&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20activity" width="95%" alt="Contribution activity graph"/>
+</a>
+
+</div>
+
 ## Connect
 
 <div align="center">
